@@ -57,15 +57,13 @@ User Story: I want to be able to answer questions about what kind of caffeinated
 * decaf
 * half-caf
 
-####Sizes and their default number of shots
-    * short: 8 oz (hot only) ------ 1
-    * tall: 12 oz ----------------- 1
-    * grande: 16 oz --------------- 2
-    * venti: 20 oz (hot) ---------- 2
-    * venti: 24 oz (cold) --------- 3
-    * trenta: 31 oz --------------- 3
-
-
+####Sizes and their default number of Espresso shots
+* short: 8 oz (hot only) ------ 1
+* tall: 12 oz ----------------- 1
+* grande: 16 oz --------------- 2
+* venti: 20 oz (hot) ---------- 2
+* venti: 24 oz (cold) --------- 3
+* trenta: 31 oz --------------- 3
 
 ###Milk
 * no milk
