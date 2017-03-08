@@ -1,21 +1,21 @@
 User Story: I want to be able to answer questions about what kind of caffeinated beverage I would like to enjoy, then have my order compiled and printed back to me on the screen.
 
-#Menu Options
+#Menu
 
-###Size Options
+###Size
 * short: 8 oz
 * tall: 12 oz
 * grande: 16 oz (default)
 * Venti: 20 oz
-Venti Iced: 24 oz
-Trenta: 31 oz
+* Venti Iced: 24 oz
+* Trenta: 31 oz
 
-###Temperature Options
+###Temperature
 * hot (default)
 * iced
 * kid-friendly
 
-###Toppings Options
+###Toppings
 * no toppings (default)
 * whipped cream
 * drizzles
@@ -37,7 +37,7 @@ Trenta: 31 oz
 * caramel crunchies
 * flavored whipped cream (seasonal)
 
-###Sweetener Options
+###Sweetener
 * no sweetener  (default)
 * sugar
 * sugar in the raw
@@ -46,13 +46,13 @@ Trenta: 31 oz
 * sweet n' low
 * honey
 
-###Foam Options
+###Foam
 * no foam (default)
 * light foam
 * foam
 * extra foam
 
-###Espresso Options
+###Espresso
 * caffeinated (default)
 * decaf
 * half-caf
@@ -66,7 +66,7 @@ Trenta: 31 oz
 
 
 
-###Milk Options
+###Milk
 * no milk
 * nonfat/skim
 * 1%
@@ -77,7 +77,7 @@ Trenta: 31 oz
 * soy
 * eggnog (seasonal)
 
-###Flavor Option
+###Flavor
 (User will need to specify number of shots, default no flavor)
 * no flavor                   # default
 * vanilla
@@ -94,14 +94,14 @@ Trenta: 31 oz
 * raspberry
 * classic (simple syrup)
 
-        -- Sizes and their default pumps of flavor --
-        1 pump = 1/4 oz
-        short: 8 oz   (hot only)      2
-        Tall: 12 oz                   3
-        Grande: 16 oz                 4
-        Venti: 20 oz (hot)            5
-        Venti: 24 oz (cold)           6
-        Trenta: 31 oz                 7
+####Sizes and their default pumps of flavor
+  1 pump = 1/4 oz
+* short: 8 oz   (hot only)      2
+* tall: 12 oz                   3
+* grande: 16 oz                 4
+* venti: 20 oz (hot)            5
+* venti: 24 oz (cold)           6
+* trenta: 31 oz                 7
 
 ##Default Beverage
 * grande: 16 oz
@@ -135,7 +135,7 @@ Trenta: 31 oz
 * sugar-free flavor
 
 ###Vanilla Latte
-        most popular
+  most popular
 * espresso
 * milk
 * flavor: vanilla
