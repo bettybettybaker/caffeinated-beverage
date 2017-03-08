@@ -123,37 +123,37 @@ classic (simple syrup)
 ##Known Drinks
 
 ###Caffe Latte
-espresso
-milk
+* espresso
+* milk
 
 ###Flavored Latte
-espresso
-milk
-flavor
+* espresso
+* milk
+* flavor
 
 ###Skinny Flavored Latte
-espresso
-non-fat milk
-sugar-free flavor
+* espresso
+* non-fat milk
+* sugar-free flavor
 
 ###Vanilla Latte
         most popular
-espresso
-milk
-flavor: vanilla
+* espresso
+* milk
+* flavor: vanilla
 
 ###Cinnamon Dolce Latte
-espresso
-milk
-flavor: cinnamon dolce
-topping: whipped cream
-topping: dolce sprinkles
+* espresso
+* milk
+* flavor: cinnamon dolce
+* topping: whipped cream
+* topping: dolce sprinkles
 
 ###Skinny Cinnamon Dolce Latte
-espresso
-skim milk
-flavor: sugar-free cinnamon dolce
-topping: dolce sprinkles OR Cinnamon
-topping: whipped cream
+* espresso
+* skim milk
+* flavor: sugar-free cinnamon dolce
+* topping: dolce sprinkles OR Cinnamon
+* topping: whipped cream
 
 source: https://delishably.com/dining-out/Starbucks-Drink-Guide-Lattes
