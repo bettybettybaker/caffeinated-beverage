@@ -6,9 +6,9 @@ User Story: I want to be able to answer questions about what kind of caffeinated
 * short: 8 oz
 * tall: 12 oz
 * grande: 16 oz (default)
-* Venti: 20 oz
-* Venti Iced: 24 oz
-* Trenta: 31 oz
+* venti: 20 oz
+* venti Iced: 24 oz
+* trenta: 31 oz
 
 ###Temperature
 * hot (default)
@@ -56,13 +56,14 @@ User Story: I want to be able to answer questions about what kind of caffeinated
 * caffeinated (default)
 * decaf
 * half-caf
-          -- Sizes and their default number of shots --
-          short: 8 oz   (hot only)      1
-          Tall: 12 oz                   1
-          Grande: 16 oz                 2
-          Venti: 20 oz (hot)            2
-          Venti: 24 oz (cold)           3
-          Trenta: 31 oz                 3
+
+####Sizes and their default number of shots
+    * short: 8 oz (hot only) ------ 1
+    * tall: 12 oz ----------------- 1
+    * grande: 16 oz --------------- 2
+    * venti: 20 oz (hot) ---------- 2
+    * venti: 24 oz (cold) --------- 3
+    * trenta: 31 oz --------------- 3
 
 
 
@@ -96,12 +97,12 @@ User Story: I want to be able to answer questions about what kind of caffeinated
 
 ####Sizes and their default pumps of flavor
   1 pump = 1/4 oz
-* short: 8 oz   (hot only)      2
-* tall: 12 oz                   3
-* grande: 16 oz                 4
-* venti: 20 oz (hot)            5
-* venti: 24 oz (cold)           6
-* trenta: 31 oz                 7
+* short: 8 oz (hot only) ------ 2
+* tall: 12 oz ----------------- 3
+* grande: 16 oz --------------- 4
+* venti: 20 oz (hot) ---------- 5
+* venti: 24 oz (cold) --------- 6
+* trenta: 31 oz --------------- 7
 
 ##Default Beverage
 * grande: 16 oz
