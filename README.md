@@ -1,6 +1,6 @@
 User Story: I want to be able to answer questions about what kind of caffeinated beverage I would like to enjoy, then have my order compiled and printed back to me on the screen.
 
-=== Default Drink ===
+##Default Beverage
 grande: 16 oz
 no toppings
 no foam
@@ -8,7 +8,7 @@ no foam
 2% milk
 no flavor
 
--- Default Drink Should Display As --
+###Default Drink Should Display As
 Caffe Latte
   grande: 16 oz
   2 shots caffeinated espresso
@@ -16,9 +16,9 @@ Caffe Latte
 
 
 
-=== Menu Options ===
+#Menu Options
 
--- Size Options --
+###Size Options
 short: 8 oz
 tall: 12 oz
 grande: 16 oz               # default
@@ -26,12 +26,12 @@ Venti: 20 oz
 Venti Iced: 24 oz
 Trenta: 31 oz
 
--- Temperature Options --
+###Temperature Options
 hot                         #default
 iced
 kid-friendly
 
--- Toppings Options --
+###Toppings Options
 no toppings                   # default
 whipped cream
 drizzles
@@ -53,7 +53,7 @@ cookie crumbles
 caramel crunchies
 flavored whipped cream (seasonal)
 
--- Sweetener Options --
+###Sweetener Options
 no sweetener                # default
 sugar
 sugar in the raw
@@ -62,13 +62,13 @@ equal
 sweet n' low
 honey
 
--- Foam Options --
+###Foam Options
 no foam                  # default
 light foam
 foam
 extra foam
 
--- Espresso Options --
+###Espresso Options
 caffeinated                   # default
 decaf
 half-caf
@@ -82,7 +82,7 @@ half-caf
 
 
 
--- Milk Options --
+###Milk Options
 no milk
 nonfat/skim
 1%
@@ -93,7 +93,9 @@ heavy cream
 soy
 eggnog (seasonal)
 
--- Flavor Options -- (User will need to specify number of shots, default no flavor)
+###Flavor Option
+  User will need to specify number of shots, default no flavor)
+
 no flavor                   # default
 vanilla
 vanilla sugar-free
@@ -118,36 +120,36 @@ classic (simple syrup)
         Venti: 24 oz (cold)           6
         Trenta: 31 oz                 7
 
-=== Known Drinks ===
+##Known Drinks
 
--- Caffe Latte --
+###Caffe Latte
 espresso
 milk
 
--- Flavored Latte --
+###Flavored Latte
 espresso
 milk
 flavor
 
--- Skinny Flavored Latte --
+###Skinny Flavored Latte
 espresso
 non-fat milk
 sugar-free flavor
 
--- Vanilla Latte --
-* most popular *
+###Vanilla Latte
+        most popular
 espresso
 milk
 flavor: vanilla
 
--- Cinnamon Dolce Latte --
+###Cinnamon Dolce Latte
 espresso
 milk
 flavor: cinnamon dolce
 topping: whipped cream
 topping: dolce sprinkles
 
--- Skinny Cinnamon Dolce Latte --
+###Skinny Cinnamon Dolce Latte
 espresso
 skim milk
 flavor: sugar-free cinnamon dolce
