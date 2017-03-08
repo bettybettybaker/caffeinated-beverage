@@ -1,25 +1,25 @@
 class Size
   def short
-    short = "short (8oz)"
+    puts "short (8oz)"
   end
 
   def tall
-    tall = "tall (12oz)"
+    puts "tall (12oz)"
   end
 
   def grande
-    grande = "grande (16oz)"
+    puts "grande (16oz)"
   end
 
   def venti
-    venti = "venti (20oz)"
+    puts "venti (20oz)"
   end
 
   def venti_iced
-    venti_iced = "venti iced (24oz)"
+    puts "venti iced (24oz)"
   end
 
   def trenta
-    trenta = "trenta (31oz)"
+    puts "trenta (31oz)"
   end
 end
