@@ -1,7 +1,8 @@
 require "minitest/autorun"
+require "./size-class_caffeinated-beverage"
 
-class TestSize < Minitest::Test
-  def test_true
-    assert true
+class TestTrenta < Minitest::Test
+  def test_trenta
+    assert_equal "trenta (31oz)", Size.new.trenta
   end
 end
